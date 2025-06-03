@@ -1,0 +1,12 @@
+aiorpcX[ws]>=0.23,<0.24
+attrs
+plyvel
+aiohttp>=3.3,<4
+x16r_hash @ git+https://github.com/brian112358/x16r_hash@d79211ee8b5d86a9709caefded79f318a1d9f3a8
+x16rv2_hash @ git+https://github.com/RavenCommunity/x16rv2_hash@f8a9ef9a185b4c900adea4628be9b08aaab343ba
+algomodule
+wheel
+pylru
+uvloop
+cpp-meraki @ git+https://github.com/Telestai-Project/meraki@0a084537d5766097853abe6a60a6ec55092fb941
+cffi
