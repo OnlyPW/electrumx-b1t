@@ -48,7 +48,7 @@ setuptools.setup(
     author='B1t Core developers',
     author_email='dev@b1tcore.org',
     license='MIT Licence',
-    url='https://github.com/yourusername/electrumx-b1t',
+    url='https://github.com/OnlyPW/electrumx-b1t',
     long_description='ElectrumX server implementation adapted for B1t Core blockchain',
     download_url=('https://github.com/yourusername/electrumx-b1t/archive/'
                   f'{version}.tar.gz'),
